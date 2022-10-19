@@ -7,4 +7,4 @@
 | 주차 | 주제 | 과제 |
 |---|---|---|
 |1주차|View, Stack, Frame|SwiftUi Tutorial|
-|2주차|Button, Navigation View, List, Geometry Reader|
+|2주차|[Button, Navigation View, List, Geometry Reader](https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011)|[SwiftUI Tutorial]((https://github.com/likelion-swiftui/notice_assignment/tree/main/20221011))|
