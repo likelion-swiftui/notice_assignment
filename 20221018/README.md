@@ -3,7 +3,8 @@
 기한: 10월 25일 22시까지 
 
 - 참고 링크: https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
-
+- 업로드한 json 파일을 활용해서 화면 구성을 해보시는 것을 추천합니다! 사진은 Images를 활용해주세요.
+<br>
 
 
 결과 및 작동 영상 <br><br>
